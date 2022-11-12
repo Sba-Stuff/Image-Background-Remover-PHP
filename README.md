@@ -1,5 +1,7 @@
 # Image-Background-Remover-PHP
 
+</center><img src="https://github.com/Sba-Stuff/Image-Background-Remover-PHP/blob/main/IBR-PHP/images/WoWGirl.gif" /></center>
+
 Image background remover in PHP.
 
 ### Setup
